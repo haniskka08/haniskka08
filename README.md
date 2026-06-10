@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
+I'm Haniskka
 
-<!--
-**haniskka08/haniskka08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Computer Science Student
+- Learning Java, SQL, Postgres SQL, React
+- Working on PetroMall Project
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- C
+- C++
+- Python
+- Java
+- MySQL
+- React
+- FastAPI
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- GitHub: https://github.com/haniskka08
