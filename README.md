@@ -29,3 +29,6 @@ I'm Haniskka
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
+</p>
