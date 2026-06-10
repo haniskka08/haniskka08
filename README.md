@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;PetroMall+Developer)](https://git.io/typing-svg)
 # Hi there 👋
 I'm Haniskka
 
