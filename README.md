@@ -19,7 +19,7 @@ I'm Haniskka
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/haniskka08
-## 📊 GitHub Stats
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haniskka08&show_icons=true&theme=tokyonight)
 ## 💻 Tech Stack
